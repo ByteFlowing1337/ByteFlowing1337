@@ -1,6 +1,6 @@
 ## Welcome!👋
-<img src="https://github-readme-stats.vercel.app/api?username=ByteFlowing1337">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteFlowing1337">
+<img src="https://github-readme-stats-shadowings-projects.vercel.app/api?username=ByteFlowing1337">
+<img src="https://github-readme-stats-shadowings-projects.vercel.app/api/top-langs/?username=ByteFlowing1337&layout=compact&show_icons=true">
 😄My homepage-->https://byteflowing1337.github.io/
 <!--
 **ByteFlowing1337/ByteFlowing1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
