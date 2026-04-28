@@ -1,6 +1,6 @@
 ## Welcome!👋
-<img src="https://github-readme-stats-shadowings-projects.vercel.app/api?username=ByteFlowing1337&theme=gruvbox_light">
-<div><a href="https://github.com/byteflowing1337/autodialer"><img src="https://github-readme-stats-shadowings-projects.vercel.app/api/pin/?username=ByteFlowing1337&repo=AutoDialer&theme=gruvbox_light"></a></div>
+<img src="https://github-readme-stats-shadowings-projects.vercel.app/api?username=ByteFlowing1337">
+<div><a href="https://github.com/byteflowing1337/autodialer"><img src="https://github-readme-stats-shadowings-projects.vercel.app/api/pin/?username=ByteFlowing1337&repo=AutoDialer"></a></div>
 😄My homepage-->https://www.byteflows.me
 <!--
 **ByteFlowing1337/ByteFlowing1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
